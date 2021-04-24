@@ -1,0 +1,13 @@
+C:\Users\Ricardo\source\repos\BinaryTreeUniversity\ConsoleApp3\bin\Debug\netcoreapp3.1\BinaryTreeUniversity.exe
+C:\Users\Ricardo\source\repos\BinaryTreeUniversity\ConsoleApp3\bin\Debug\netcoreapp3.1\BinaryTreeUniversity.deps.json
+C:\Users\Ricardo\source\repos\BinaryTreeUniversity\ConsoleApp3\bin\Debug\netcoreapp3.1\BinaryTreeUniversity.runtimeconfig.json
+C:\Users\Ricardo\source\repos\BinaryTreeUniversity\ConsoleApp3\bin\Debug\netcoreapp3.1\BinaryTreeUniversity.runtimeconfig.dev.json
+C:\Users\Ricardo\source\repos\BinaryTreeUniversity\ConsoleApp3\bin\Debug\netcoreapp3.1\BinaryTreeUniversity.dll
+C:\Users\Ricardo\source\repos\BinaryTreeUniversity\ConsoleApp3\bin\Debug\netcoreapp3.1\BinaryTreeUniversity.pdb
+C:\Users\Ricardo\source\repos\BinaryTreeUniversity\ConsoleApp3\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\BinaryTreeUniversity\ConsoleApp3\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\BinaryTreeUniversity\ConsoleApp3\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\BinaryTreeUniversity\ConsoleApp3\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\BinaryTreeUniversity\ConsoleApp3\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.dll
+C:\Users\Ricardo\source\repos\BinaryTreeUniversity\ConsoleApp3\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.pdb
+C:\Users\Ricardo\source\repos\BinaryTreeUniversity\ConsoleApp3\obj\Debug\netcoreapp3.1\BinaryTreeUniversity.genruntimeconfig.cache
